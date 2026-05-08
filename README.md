@@ -69,7 +69,7 @@ WardGPT, A colourful, special terminal‑based work logger that helps you track 
 You only need Python 3.6 or newer. No external libraries are required.
 
 ```bash
-git clone https://github.com/your-username/WardGPT.git
+git clone https://github.com/hasa-arc/WardGPT.git
 cd WardGPT
 python3 wardgpt.py
 ```
