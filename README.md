@@ -1,12 +1,8 @@
 # WardGPT
-A special terminal-based work logger with timer, summaries, and payment estimates.
 
 Here’s a detailed, ready‑to‑use `README.md` – you can drop it straight into your repository.
 
-
-# WardGPT ⏱️
-
-A colourful terminal‑based work logger that helps you track tasks, measure hours, and calculate payments – all with built‑in Python and zero extra dependencies.
+WardGPT, A colourful, special terminal‑based work logger that helps you track tasks, measure hours, and calculate payments – all with built‑in Python and zero extra dependencies.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
