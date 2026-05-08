@@ -3,7 +3,7 @@ A special terminal-based work logger with timer, summaries, and payment estimate
 
 Here’s a detailed, ready‑to‑use `README.md` – you can drop it straight into your repository.
 
-```markdown
+
 # WardGPT ⏱️
 
 A colourful terminal‑based work logger that helps you track tasks, measure hours, and calculate payments – all with built‑in Python and zero extra dependencies.
