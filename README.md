@@ -63,7 +63,8 @@ A colourful terminal‑based work logger that helps you track tasks, measure hou
 
 ## 📸 Screenshot
 
-> *(Add a screenshot of the main menu here – for example, `![Main Menu](screenshot.png)`)*
+> A screenshot of the main menu here – for example,
+<img width="604" height="639" alt="image" src="https://github.com/user-attachments/assets/79ce9c99-9c68-4ca7-9ae1-ea63b69d639b" />
 
 ---
 
